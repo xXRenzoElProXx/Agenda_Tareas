@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agenda de Tareas</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Agenda de Tareas</h1>
+            <div class="priority-info">
+                <h2>Significado de los Colores</h2>
+                <ul>
+                    <li><span class="color-indicator low-priority"></span>Baja: Tareas que tienen una menor prioridad.
+                    </li>
+                    <li><span class="color-indicator medium-priority"></span>Media: Tareas que tienen una prioridad
+                        media.</li>
+                    <li><span class="color-indicator high-priority"></span>Alta: Tareas que tienen una alta
+                        prioridad.</li>
+                </ul>
+            </div>
+            <div class="input-container">
+                <input type="text" id="new-task" placeholder="Agregar nueva tarea">
+                <select id="task-priority">
+                    <option value="low">Baja</option>
+                    <option value="medium" selected>Media</option>
+                    <option value="high">Alta</option>
+                </select>
+                <button id="add-task-btn">Agregar</button>
+            </div>
+            <div class="filter-container">
+                <input type="text" id="filter-task" placeholder="Buscar tarea">
+                <button id="toggle-all-completed-btn">Marcar todas</button>
+            </div>
+            <div class="counter-container">
+                <span id="task-counter"></span>
+            </div>
+        </div>
+        <ul id="task-list"></ul>
+    </div>
+
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+    <script src="script.js"></script>
+</body>
+
+</html>
