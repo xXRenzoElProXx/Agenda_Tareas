@@ -29,3 +29,28 @@ Este proyecto es una **agenda de tareas** interactiva y sencilla para gestionar 
 
    ```bash
    git clone https://github.com/tu-usuario/agenda-de-tareas.git
+2. Navega a la carpeta del proyecto:
+   ```bash
+   cd agenda-de-tareas
+3. Abre el archivo index.html en tu navegador para visualizar la aplicación.
+
+## Uso de la aplicación
+
+- **Agregar tareas**: Introduce el texto de la tarea en el campo de entrada y selecciona la prioridad, luego haz clic en "Agregar".
+
+- **Filtrar tareas**: Usa el campo de búsqueda para filtrar tareas por su descripción.
+
+- **Marcar como completadas**: Haz clic en el checkbox junto a una tarea para marcarla como completada.
+
+- **Visualizar prioridades**: Las tareas tienen indicadores de colores para reflejar la prioridad:
+  - 🟢 **Baja**: Tareas con menor prioridad.
+  - 🟡 **Media**: Tareas con prioridad media.
+  - 🔴 **Alta**: Tareas con alta prioridad.
+
+## Estructura de archivos
+```bash
+agenda-de-tareas/
+├── index.html        # Archivo principal de la aplicación.
+├── styles.css        # Hoja de estilos de la aplicación.
+├── script.js         # Archivo JavaScript con la lógica de la aplicación.
+├── logo.png          # Ícono de la aplicación.
