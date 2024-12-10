@@ -28,7 +28,6 @@ Este proyecto es una **agenda de tareas** interactiva y sencilla para gestionar 
 - **HTML5**: Para la estructura del documento.
 - **CSS3**: Para los estilos y diseño responsivo.
 - **JavaScript**: Para la funcionalidad interactiva y manipulación de tareas.
-- **SweetAlert**: Para mensajes emergentes.
 
 ## 🚀 Instalación y uso
 ### 1. Clona el repositorio a tu máquina local:
