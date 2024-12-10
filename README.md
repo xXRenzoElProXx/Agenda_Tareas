@@ -1,5 +1,4 @@
 # 🗂️ Agenda de Tareas
-
 ## 📖 Descripción
 Este proyecto es una **agenda de tareas** interactiva y sencilla para gestionar tus pendientes de manera eficiente. Permite agregar, filtrar y marcar tareas como completadas, además de mostrar un contador de tareas activas. Se han implementado diferentes niveles de prioridad con un sistema de colores para facilitar la identificación de las tareas más urgentes.
 
