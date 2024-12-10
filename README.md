@@ -30,10 +30,10 @@ Este proyecto es una **agenda de tareas** interactiva y sencilla para gestionar 
    ```bash
    git clone https://github.com/tu-usuario/agenda-de-tareas.git
    ```
-
-2. Navega a la carpeta del proyecto:
+### 2. Navega a la carpeta del proyecto:
    ```bash
    cd agenda-de-tareas
+   ```
 3. Abre el archivo index.html en tu navegador para visualizar la aplicación.
 
 ## Uso de la aplicación
