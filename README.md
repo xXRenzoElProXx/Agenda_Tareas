@@ -33,7 +33,7 @@ Este proyecto es una **agenda de tareas** interactiva y sencilla para gestionar 
 ## 🚀 Instalación y uso
 ### 1. Clona el repositorio a tu máquina local:
 ```bash
-git clone https://github.com/tu-usuario/agenda-de-tareas.git
+git clone https://github.com/xXRenzoElProXx/Agenda_Tareas.git
    ```
 ### 2. Navega a la carpeta del proyecto:
    ```bash
