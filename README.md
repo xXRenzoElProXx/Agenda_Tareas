@@ -1,11 +1,9 @@
 # 🗂️ Agenda de Tareas
 
 ## 📖 Descripción
-
 Este proyecto es una **agenda de tareas** interactiva y sencilla para gestionar tus pendientes de manera eficiente. Permite agregar, filtrar y marcar tareas como completadas, además de mostrar un contador de tareas activas. Se han implementado diferentes niveles de prioridad con un sistema de colores para facilitar la identificación de las tareas más urgentes.
 
 ## 🌟 Características
-
 - **Agregar tareas**: Introduce nuevas tareas con su descripción y asigna un nivel de prioridad.
 - **Filtrar tareas**: Busca tareas por su contenido para encontrar rápidamente lo que necesitas.
 - **Marcar como completadas**: Marca tareas como completadas y visualízalas de forma diferenciada.
@@ -13,11 +11,9 @@ Este proyecto es una **agenda de tareas** interactiva y sencilla para gestionar 
 - **Responsive design**: La interfaz se adapta a diferentes tamaños de pantalla, garantizando una experiencia óptima en dispositivos móviles y de escritorio.
 
 ## 📸 Imágenes
-
 ![Captura de pantalla de la aplicación](./screenshot.jpeg)
 
 ## 🛠️ Tecnologías utilizadas
-
 <p align="center">
   <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -36,9 +32,7 @@ Este proyecto es una **agenda de tareas** interactiva y sencilla para gestionar 
 - **SweetAlert**: Para mensajes emergentes.
 
 ## 🚀 Instalación y uso
-
 ### 1. Clona el repositorio a tu máquina local:
-
 ```bash
 git clone https://github.com/tu-usuario/agenda-de-tareas.git
    ```
@@ -68,4 +62,5 @@ agenda-de-tareas/
 ├── styles.css        # Hoja de estilos de la aplicación.
 ├── script.js         # Archivo JavaScript con la lógica de la aplicación.
 ├── logo.png          # Ícono de la aplicación.
+├── screenshot.png    # Captura de pantalla de la aplicación.
 ```
