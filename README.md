@@ -14,7 +14,7 @@ Este proyecto es una **agenda de tareas** interactiva y sencilla para gestionar 
 
 ## 📸 Imágenes
 
-![Captura de pantalla de la aplicación](./screenshot.png)
+![Captura de pantalla de la aplicación](./screenshot.jpeg)
 
 ## 🛠️ Tecnologías utilizadas
 
