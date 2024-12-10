@@ -34,9 +34,9 @@ Este proyecto es una **agenda de tareas** interactiva y sencilla para gestionar 
    ```bash
    cd agenda-de-tareas
    ```
-3. Abre el archivo index.html en tu navegador para visualizar la aplicación.
+### 3. Abre el archivo index.html en tu navegador para visualizar la aplicación.
 
-## Uso de la aplicación
+## 🧑‍💻 Uso de la aplicación
 
 - **Agregar tareas**: Introduce el texto de la tarea en el campo de entrada y selecciona la prioridad, luego haz clic en "Agregar".
 
@@ -49,10 +49,11 @@ Este proyecto es una **agenda de tareas** interactiva y sencilla para gestionar 
   - 🟡 **Media**: Tareas con prioridad media.
   - 🔴 **Alta**: Tareas con alta prioridad.
 
-## Estructura de archivos
+## 📂 Estructura de archivos
 ```bash
 agenda-de-tareas/
 ├── index.html        # Archivo principal de la aplicación.
 ├── styles.css        # Hoja de estilos de la aplicación.
 ├── script.js         # Archivo JavaScript con la lógica de la aplicación.
 ├── logo.png          # Ícono de la aplicación.
+```
