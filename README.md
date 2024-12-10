@@ -1,43 +1,31 @@
-# Nombre del Proyecto
-
-![Logo del Proyecto](ruta/a/tu/imagen/logo.png)
-
-> Breve descripción del proyecto y su propósito.
-
-## Índice
-
-- [Descripción](#descripción)
-- [Características](#características)
-- [Tecnologías Utilizadas](#tecnologías-utilizadas)
-- [Instalación](#instalación)
-- [Uso](#uso)
-- [Contribuciones](#contribuciones)
-- [Licencia](#licencia)
-- [Contacto](#contacto)
+# Agenda de Tareas
 
 ## Descripción
 
-Este proyecto es una aplicación que [explica brevemente la función o propósito de la aplicación]. Se desarrolla con el objetivo de [menciona el objetivo principal].
+Este proyecto es una **agenda de tareas** interactiva y sencilla para gestionar tus pendientes de manera eficiente. Permite agregar, filtrar, y marcar tareas como completadas, además de mostrar un contador de tareas activas. Se han implementado diferentes niveles de prioridad con un sistema de colores para facilitar la identificación de las tareas más urgentes.
 
 ## Características
 
-- ✔️ Función 1: [Descripción de la función]
-- ✔️ Función 2: [Descripción de la función]
-- ✔️ Función 3: [Descripción de la función]
+- **Agregar tareas**: Introduce nuevas tareas con su descripción y asigna un nivel de prioridad.
+- **Filtrar tareas**: Busca tareas por su contenido para encontrar rápidamente lo que necesitas.
+- **Marcar como completadas**: Marca tareas como completadas y visualízalas de forma diferenciada.
+- **Prioridades**: Tareas con colores para representar la prioridad (baja, media, alta).
+- **Responsive design**: La interfaz se adapta a diferentes tamaños de pantalla, garantizando una experiencia óptima en dispositivos móviles y de escritorio.
 
-## Tecnologías Utilizadas
+## Imágenes
 
-Este proyecto utiliza las siguientes tecnologías:
+![Captura de pantalla de la aplicación](./screenshot.png)
 
-- **Lenguajes**: [Python, JavaScript, C++, etc.]
-- **Frameworks y librerías**: [React, Node.js, TensorFlow, etc.]
-- **Bases de datos**: [MySQL, PostgreSQL, MongoDB, etc.]
-- **Otros**: [Docker, Git, etc.]
+## Tecnologías utilizadas
 
-## Instalación
+- **HTML5**: Para la estructura del documento.
+- **CSS3**: Para los estilos y diseño responsivo.
+- **JavaScript**: Para la funcionalidad interactiva y manipulación de tareas.
+- **SweetAlert**: Para mensajes emergentes.
 
-Para instalar y ejecutar este proyecto localmente, sigue estos pasos:
+## Instalación y uso
 
-1. Clona el repositorio:
+1. Clona el repositorio a tu máquina local:
+
    ```bash
-   git clone https://github.com/tu-usuario/tu-proyecto.git
+   git clone https://github.com/tu-usuario/agenda-de-tareas.git
